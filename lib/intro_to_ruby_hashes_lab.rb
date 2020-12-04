@@ -7,7 +7,7 @@ def my_hash
   # return a valid hash with any key/value pair of your choice
   new_hash = { "home": "1 fam",
     "building": "2 fam"
-    
+
   }
 end
 
